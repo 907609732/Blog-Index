@@ -28,7 +28,7 @@
         <div :class="['hello', { hello_bottom: flag }]">
           <div>{{ slogan[i] }}</div>
           <div class="hello_bottom_text">
-            点击以访问 {{ $config.BLOG_NAME }}
+            点击以访问五成的个人网站 {{ $config.BLOG_NAME }}
           </div>
         </div>
       </div>
